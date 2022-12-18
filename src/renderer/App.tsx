@@ -7,7 +7,7 @@ const Hello = () => {
   return (
     <div className="text-center ">
       <img src={icon} alt="logo" className="h-48 w-48 mx-auto" />
-      <h1 className="text-2xl font-extrabold bg-slate-50 text-red-500">
+      <h1 className="text-2xl font-extrabold bg-slate-500 text-red-500">
         electron-react-boilerplate with tailwind
       </h1>
     </div>
